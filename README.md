@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi👋, I'm Frank
 
-<!--
-**Frank3080/frank3080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Join me as I set on a path to learn new and innovative technologies available today <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw4ZmVpejh4YjIzdmt6MjlpZ3pyZWt3b3RudWlzOXJ2NnN5ZTB1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBkKEBJkmFbTG/giphy.gif" width="60" height="60" alt="me"/></p>
 
-Here are some ideas to get you started:
+<p>Feel free to connect with me at anytime</p>
+<img src="https://github.com/images/mona-whisper.gif" width="120" height="120" alt="something"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio 🦆 coming soon...
+
+Gmail 📬 frankortizcarballo@gmail.com
+
+Linkedin 👨🏻‍💼 www.linkedin.com/in/frank-ortiz-carballo
+
+
+## Favorite Tech  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xyaHA2YjI0emp3cGFnODU0emlpaXowdTEyYW92dmJhamZlOW5lOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="30" height="30" alt="me coding"/>
+
+Currently I enjoy working with React/Next.js/SvelteKit, TailwindCSS, Node.js, SQL, NoSQL and Firebase
+
+## What I'm currently learning 🧙‍♂️​
+
+Python <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30" height="30" alt="python logo"/>
+
