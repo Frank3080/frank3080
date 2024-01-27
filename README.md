@@ -1,9 +1,9 @@
 # Hi👋, I'm Frank
 
-<p>Join me as I set on a path to learn new and innovative technologies available today <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw4ZmVpejh4YjIzdmt6MjlpZ3pyZWt3b3RudWlzOXJ2NnN5ZTB1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBkKEBJkmFbTG/giphy.gif" width="60" height="60" alt="me"/></p>
+<p>Join me as I set on a path to learn new and innovative technologies available today <img src="https://github.com/images/mona-whisper.gif" width="60" height="60" alt="me"/></p>
 
 <p>Feel free to connect with me at anytime</p>
-<img src="https://github.com/images/mona-whisper.gif" width="120" height="120" alt="something"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFqZTVwaWtqZ3hvcHFlNXFxdnVuZnhzNjV5dnB5MzI3YWVrejRzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D98NqcMRVubII/giphy.gif" width="120" height="120" alt="something"/>
 
 Portfolio 🦆 coming soon...
 
