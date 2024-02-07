@@ -19,4 +19,5 @@ Currently I enjoy working with React/Next.js/SvelteKit, TailwindCSS, Node.js, SQ
 ## What I'm currently learning 🧙‍♂️​
 
 Python <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30" height="30" alt="python logo"/>
+Solidity 
 
